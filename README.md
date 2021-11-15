@@ -27,5 +27,6 @@ Once running, you can use a program like [**Insomnia Core**](https://insomnia.re
 Micah Duehring (hucklebun)
 
 ## Have questions? Connect with me.
-GitHub: github.com/hucklebun<br>
+GitHub: [My Profile](https://github.com/hucklebun/)
+<br>
 Email: micah@theduehrings.com    
